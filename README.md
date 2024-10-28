@@ -1,6 +1,8 @@
 # Portfolio QA
 Portfolio personal QA
 
+:construction: Proyecto en construcción :construction:
+
 
 # Hola, soy Vanesa! 
 Me gusta el diseño y el desarrollo web lo que me motivo a aprender más.
@@ -12,24 +14,24 @@ Mi objetivo es conseguir empleo en el rubro IT.
 ## 🛠 Skills
 
 - Documentación:
-Plan de pruebas
-Casos de pruebas
-Reporte de pruebas
-Reporte de resultados
+  - `Plan de pruebas`
+  - `Casos de pruebas`
+  - `Reporte de pruebas`
+  - `Reporte de resultados`
 
 - Análisis y diseño
 
 - Pruebas manuales y exploratorias
 
 - Herramientas:
-Trello
-GitHub
-Visual Studio Code
+  - `Trello`
+  - `GitHub`
+  - `Visual Studio Code`
 
 ## CV
 
-Puedes descargar mi CV en formato PDF desde mi Google Drive .
-[Documentation](https://drive.google.com/file/d/1KHpIIBN0kOtGL7FIHrVPXY0Vk_NtpuiG/view?usp=sharing)
+Puedes descargar mi CV en formato PDF desde mi 
+[Google Drive](https://drive.google.com/file/d/1KHpIIBN0kOtGL7FIHrVPXY0Vk_NtpuiG/view?usp=sharing)
 
 
 
